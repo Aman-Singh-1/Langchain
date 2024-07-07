@@ -1,0 +1,26 @@
+langchain-community==0.2.0
+langchain-openai==0.1.7
+langchain==0.2.0
+"unstructured[all-docs]==0.14.0"
+pymupdf==1.24.4
+jq==1.7.0
+pypdf==4.2.0
+tesseract
+poppler-utils
+openai==0.27.7
+pinecone-client==3.1.0 
+langchain==0.1.1
+langchain-community==0.0.13
+tiktoken==0.4.0
+pinecone-notebooks==0.1.1
+langchain-text-splitters==0.2.0
+ tiktoken==0.7.0
+ spacy
+ sentence-transformers==2.7.0
+ llama-index-vector-stores-pinecone
+ pytesseract==0.1.8
+langchain_pinecone
+chainlit==1.0.401
+ChatOpenAI
+ChatPromptTemplate
+!pip install langchain==0.1.12
